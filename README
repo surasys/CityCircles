@@ -8,7 +8,7 @@ The City Circles code can be used to emphasize any geographic location and allow
 
 The code is still under development and changes will occur quite frequently. If something isn't working please add an issue and we'll investigate. Some things are simply not working and will be addressed as quickly as possible. There is currently no test suite...if you fancy writing test suites by all means have a go at it. All feedback is welcome. 
 
-== Installation and Setup
+== Installation
 
 City Circles is a Ruby on Rails application. As such, you'll need a recent version (2.3.5+):
 
